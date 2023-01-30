@@ -1,0 +1,159 @@
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Temple Estate' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Graveside Estate' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Brickside Park' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Brickham Estate' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Hillside Road' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Juggin Alleys' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Rosebury Square' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Juggin Road' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Grow House' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Shelldale Drive' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Crasher Lane' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Longwood Underpass' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'the Grow House' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'the Cemetary' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Longwood Road' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Brickston Station' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Crescent Way' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Farmbrick Parking Lot' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Longwood Backstreets' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
+
+for i, v in next, workspace:GetDescendants() do
+    if v.Name == 'Potters Drive' then
+        print(v.CFrame)
+
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame + Vector3.new(0,3,0)
+    end
+end
